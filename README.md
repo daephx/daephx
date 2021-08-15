@@ -109,8 +109,8 @@ It should help me improve much faster.
 <!-- Github Statistics -->
 
 <div id="stats-wrapper">
-<details id="readme-stats" open="true">
-  <summary>⚡ <b>Statistics</b></summary>
+<details id="readme-stats" open="false">
+  <summary>:zap:&nbsp;<b>Statistics</b></summary>
 
   <!-- Metadata Cards -->
 
@@ -130,13 +130,15 @@ It should help me improve much faster.
 </details>
 </div>
 
+<!-- Github Repositories -->
+
 <div id="container-stats">
 <details id="readme_stats" open="false">
-  <summary>⚡ <b>Repositories</b></summary>
+  <summary>:zap:&nbsp;<b>Repositories</b></summary>
 
   <!-- Repository Cards -->
 
-  <p align="center">🚧 This section is under construction 🚧</p>
+  <p align="center">:construction:&nbsp;<b>This section is under construction</b>&nbsp;:construction:</p>
 
 <hr/>
 <h3 align=center>
