@@ -46,6 +46,7 @@ and run this script in the browser console:
 ### :space_invader: &nbsp;About Me
 
 Hello! My name is **Daemon**, I'm a self taught software engineer.
+
 We are all on an endless journey to suck less, so do your worst!
 It should help me improve much faster.
 
