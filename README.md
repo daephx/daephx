@@ -49,9 +49,9 @@ Hello! My name is **Daemon**, I'm a self taught software engineer.
 We are all on an endless journey to suck less, so do your worst!
 It should help me improve much faster.
 
-- :alembic: &nbsp;Inspired by science and technological development.\
-- :heartbeat: &nbsp;Passionate for problem solving and automation.\
-- :anger: &nbsp;Corrupted by my love for art and games.\
+- :alembic: &nbsp;Inspired by science and technological development.
+- :heartbeat: &nbsp;Passionate for problem solving and automation.
+- :anger: &nbsp;Corrupted by my love for art and games.
 
 <hr/>
 </div>
