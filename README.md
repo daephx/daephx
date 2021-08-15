@@ -1,13 +1,13 @@
-<!-- 
-  + Github Profile Readme *
+<!--
++ Github Profile Readme *
 
-  A Flashy introduction for your github profile, 
-  add details and links the explain what kinda work you do!
+A Flashy introduction for your github profile,
+add details and links the explain what kinda work you do!
 
-  For testing modifications, got to the 'develop' branch:
-  https://github.com/daephx/daephx/tree/develop
+For testing modifications, got to the 'develop' branch:
+https://github.com/daephx/daephx/tree/develop
 
-  and run this script in the browser console:
+and run this script in the browser console:
 -->
 
 <!-- Banner Image -->
