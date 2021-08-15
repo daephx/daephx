@@ -38,7 +38,6 @@
   <img alt="Website" src="https://img.shields.io/website?color=242424&label=Steam&logo=Steam&logoColor=000000&style=flat-square&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2FxPandaemonium%2F"></a>
 </div>
 
-<br/>
 <hr/>
 
 <img align=right width="36%" src="assets\delete.gif"/>
