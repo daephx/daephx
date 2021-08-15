@@ -43,15 +43,15 @@
 <img align=right width="36%" src="assets\delete.gif"/>
 <div>
 
-Hello! My name is **Damon**,  
-We are all on an endless journey to suck less, let's just hope for some fun on the way!
+## :space_invader: &nbsp;About Me
 
-here's a few things I'm interested in.
+Hello! My name is **Daemon**, I'm a self taught software engineer.
+We are all on an endless journey to suck less, so do your worst!
+It should help me improve much faster.
 
-- ⚗️ Science and how shit work
-- 🎮 Games of all kind
-- 💢 Anime and Manga
-- 🤖 Programming and Automation
+- :alembic: &nbsp;Inspired by science and technological development.\
+- :heartbeat: &nbsp;Passionate for problem solving and automation.\
+- :anger: &nbsp;Corrupted by my love for art and games.\
 
 <hr/>
 </div>
