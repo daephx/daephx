@@ -109,7 +109,7 @@ It should help me improve much faster.
 <!-- Github Statistics -->
 
 <div id="stats-wrapper">
-<details id="readme-stats" open="false">
+<details id="readme-stats">
   <summary>:zap:&nbsp;<b>Statistics</b></summary>
 
   <!-- Metadata Cards -->
@@ -133,7 +133,7 @@ It should help me improve much faster.
 <!-- Github Repositories -->
 
 <div id="container-stats">
-<details id="readme_stats" open="false">
+<details id="readme_stats">
   <summary>:zap:&nbsp;<b>Repositories</b></summary>
 
   <!-- Repository Cards -->
