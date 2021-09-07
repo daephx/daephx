@@ -113,7 +113,7 @@ Yo! My name's **Daemon**, I build software.
   <!-- Metadata Cards -->
 
   <div align=center>
-  <a href="#"><img height="200px%" src="https://github-readme-streak-stats.herokuapp.com/?user=daephx&theme=tokyonight&hide_border=true&background=00000000&ring=00DDD6"/></a>
+  <a href="#"><img height="200px%" src="https://github-readme-streak-stats.herokuapp.com/?user=daephx&theme=tokyonight&hide_border=true&background=00000000&ring=5CC7E2&dates=5CC7E2"/></a>
   <a href="#"><img height="200px" src="https://github-profile-trophy.vercel.app/?username=daephx&row=2&column=3&margin-w=15&theme=discord&no-bg=true&no-frame=true"/></a>
   </div>
 
