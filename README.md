@@ -117,7 +117,7 @@ Yo! My name's **Daemon**, I build software.
 
 <div id="container-stats">
 <details id="readme_stats">
-  <summary>:zap:&nbsp;<b>Repositories</b></summary>
+  <summary>:star:&nbsp;<b>Repositories</b></summary>
 
   <!-- Repository Cards -->
 
