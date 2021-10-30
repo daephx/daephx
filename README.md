@@ -2,7 +2,7 @@
 + Github Profile Readme *
 
 A Flashy introduction for your github profile,
-add details and links the explain what kinda work you do!
+add details and links the explain what kind of work you do!
 
 For testing modifications, got to the 'develop' branch:
 https://github.com/daephx/daephx/tree/develop
