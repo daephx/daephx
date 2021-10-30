@@ -25,19 +25,6 @@ and run this script in the browser console:
   <a href="#"><img align="center" width="3%" src="https://media.githubusercontent.com/media/daephx/daephx/main/assets/gem.gif"/></a>
 </div>
 
-<p id="readme_social" align=center>
-<div id="readme_social" align=center>
-  <a href="#">
-    <a href="https://github.com/daephx" target="_blank" rel="noopener noreferrer">
-    <img alt="daephx" src="https://badges.pufler.dev/visits/daephx/daephx?logo=GitHub&label=Visits&color=242424&logoColor=white&style=flat-square"/></a>
-  <a href="https://reddit.com" target="_blank" rel="noopener noreferrer">
-  <img alt="Reddit Karma" src="https://img.shields.io/reddit/user-karma/combined/daephx?color=242424&label=Reddit&logo=Reddit&style=flat-square"></a>
-  <a href="https://twitter.com/daephx" target="_blank" rel="noopener noreferrer">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/daephx?color=242424&label=Twitter&logo=Twitter&style=flat-square"></a>
-  <a href="https://steamcommunity.com/id/xPandaemonium/" target="_blank" rel="noopener noreferrer">
-  <img alt="Website" src="https://img.shields.io/website?color=242424&label=Steam&logo=Steam&logoColor=000000&style=flat-square&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2FxPandaemonium%2F"></a>
-</div>
-
 <hr/>
 
 <img align=right width="36%" src="assets\delete.gif"/>
