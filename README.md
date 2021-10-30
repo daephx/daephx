@@ -10,11 +10,6 @@ https://github.com/daephx/daephx/tree/develop
 and run this script in the browser console:
 -->
 
-<!-- Banner Image -->
-
-<a href="#"><img width=100% src="https://media.githubusercontent.com/media/daephx/daephx/main/assets/banner.gif"/></a>
-<a href="#"><img width=100% src="https://media.githubusercontent.com/media/daephx/daephx/main/assets/start.gif"/></a>
-
 <!-- General Links -->
 
 <div align="center">
