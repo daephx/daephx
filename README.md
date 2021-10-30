@@ -12,13 +12,14 @@ and run this script in the browser console:
 
 <!-- General Links -->
 
-<div align="center">
-  <a href="#"><img align="center" width="3%" src="https://media.githubusercontent.com/media/daephx/daephx/main/assets/gem.gif"/></a>
-  <a href="https://daephx.github.io" target="_blank" rel="noopener noreferrer">Pages</a>
-  • <a href="#user-content-readme-stats">Stats</a>
-  • <a href="https://gist.github.com/daephx">Gists</a>
-  <a href="#"><img align="center" width="3%" src="https://media.githubusercontent.com/media/daephx/daephx/main/assets/gem.gif"/></a>
-</div>
+<div>
+  <div align="center">
+    <a href="#"><img align="center" width="3%" src="https://media.githubusercontent.com/media/daephx/daephx/main/assets/gem.gif"/></a>
+    <a href="https://daephx.github.io" target="_blank" rel="noopener noreferrer">Pages</a>
+    • <a href="#user-content-readme-stats">Stats</a>
+    • <a href="https://gist.github.com/daephx">Gists</a>
+    <a href="#"><img align="center" width="3%" src="https://media.githubusercontent.com/media/daephx/daephx/main/assets/gem.gif"/></a>
+  </div>
 
 <hr/>
 <img align=right width="36%" src="assets\delete.gif"/>
