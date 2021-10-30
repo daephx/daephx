@@ -21,8 +21,8 @@ and run this script in the browser console:
 </div>
 
 <hr/>
-
 <img align=right width="36%" src="assets\delete.gif"/>
+
 <div>
 
 ### :space_invader: &nbsp;About Me
@@ -95,13 +95,13 @@ Yo! My name's **Daemon**, I build software.
   <!-- Metadata Cards -->
 
   <div align=center>
-  <a href="#"><img height="200px%" src="https://github-readme-streak-stats.herokuapp.com/?user=daephx&theme=tokyonight&hide_border=true&background=00000000&ring=5CC7E2&dates=5CC7E2"/></a>
-  <a href="#"><img height="200px" src="https://github-profile-trophy.vercel.app/?username=daephx&row=2&column=3&margin-w=15&theme=discord&no-bg=true&no-frame=true"/></a>
+  <a href="#"><img height="192px" src="https://github-readme-streak-stats.herokuapp.com/?user=daephx&theme=tokyonight&hide_border=true&background=00000000&ring=5CC7E2&dates=5CC7E2"/></a>
+  <a href="#"><img height="192px" src="https://github-profile-trophy.vercel.app/?username=daephx&row=2&column=3&margin-w=15&theme=discord&no-bg=true&no-frame=true"/></a>
   </div>
 
   <div align=center>
-  <a href="#"><img height="137px" src="https://github-readme-stats.daephx.vercel.app/api/?username=daephx&hide_title=true&show_icons=true&hide_border=true&line_height=21&bg_color=00000000&text_color=59c7e5&count_private=true&include_all_commits=true"/></a>
-  <a href="#"><img height="137px" src="https://github-readme-stats.daephx.vercel.app/api/top-langs/?username=daephx&exclude_repo=github-readme-stats,daephx.github.io,etckeeper-RPi,notebooks,gists,wiki&hide=html&hide_title=true&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&text_color=59c7e5"/></a>
+  <a href="#"><img height="132px" src="https://github-readme-stats.daephx.vercel.app/api/?username=daephx&hide_title=true&show_icons=true&hide_border=true&line_height=21&bg_color=00000000&text_color=59c7e5&count_private=true&include_all_commits=true"/></a>
+  <a href="#"><img height="132px" src="https://github-readme-stats.daephx.vercel.app/api/top-langs/?username=daephx&exclude_repo=github-readme-stats,daephx.github.io,etckeeper-RPi,notebooks,gists,wiki&hide=html&hide_title=true&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&text_color=59c7e5"/></a>
   <br>
   </div>
 
