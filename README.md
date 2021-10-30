@@ -109,6 +109,7 @@ Yo! My name's **Daemon**, I build software.
   </div>
 
   <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=daephx&theme=react-dark&bg_color=00000000&hide_border=true&area=true&custom_title=%20"/></a>
+  <hr/>
 
 </details>
 </div>
@@ -118,6 +119,7 @@ Yo! My name's **Daemon**, I build software.
 <div id="container-stats">
 <details id="readme_stats">
   <summary>:star:&nbsp;<b>Repositories</b></summary>
+  <br/>
 
   <!-- Repository Cards -->
 
