@@ -110,7 +110,7 @@ Yo! My name's **Daemon**, I build software.
 
   <div align=center>
   <a href="#"><img height="132px" src="https://github-readme-stats.daephx.vercel.app/api/?username=daephx&hide_title=true&show_icons=true&hide_border=true&line_height=21&bg_color=00000000&text_color=59c7e5&count_private=true&include_all_commits=true"/></a>
-  <a href="#"><img height="132px" src="https://github-readme-stats.daephx.vercel.app/api/top-langs/?username=daephx&exclude_repo=github-readme-stats,daephx.github.io,etckeeper-RPi,notebooks,gists,vault,wiki,zettelkasten&hide=html&hide_title=true&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&text_color=59c7e5"/></a>
+  <a href="#"><img height="132px" src="https://github-readme-stats.daephx.vercel.app/api/top-langs/?username=daephx&exclude_repo=github-readme-stats,daephx.github.io,etckeeper-RPi,notebooks,gists,notes,vault,wiki,zettelkasten&hide=html,markdown&hide_title=true&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&text_color=59c7e5"/></a>
   <br>
   </div>
 
