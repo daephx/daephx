@@ -12,11 +12,9 @@ add details and links the explain what kind of work you do!
 <!-- General Links -->
 
 <div align="center">
-<a href="#"><img width="3%" src="assets/gem.gif"/></a>
 <a href="https://daephx.github.io" target="_blank" rel="noopener noreferrer">Pages</a>
 • <a href="https://github.com/daephx/stars" target="_blank" rel="noopener noreferrer">Stars</a>
 • <a href="https://gist.github.com/daephx" target="_blank" rel="noopener noreferrer">Gists</a>
-<a href="#"><img width="3%" src="assets/gem.gif"/></a>
 </div>
 
 <hr>
