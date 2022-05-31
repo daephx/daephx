@@ -23,13 +23,13 @@ add details and links the explain what kind of work you do!
 
 <img align=right width="36%" src="assets/delete.gif"/>
 
-### :space_invader: &nbsp;About Me
+### :space_invader: About Me
 
 Yo! My name's **Daemon**, I build software.
 
-- :alembic: &nbsp;Inspired by science and technological development.
-- :heartbeat: &nbsp;Passionate for problem solving and automation.
-- :anger: &nbsp;Corrupted by my love for art and games.
+- :alembic: Inspired by science and technological development.
+- :heartbeat: Passionate for problem-solving and automation.
+- :anger: Corrupted by my love for art and games.
 
 <hr>
 
