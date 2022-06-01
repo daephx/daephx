@@ -33,48 +33,31 @@ Yo! &nbsp;:wave: My name's **Daemon**, I like software.
 
 <hr>
 
-<!-- User Information -->
+<!-- Metadata -->
 
 <details>
-<summary>:information_source:&nbsp;<b>Information</b></summary>
-<br>
+<summary align=center>
+:zap:&nbsp;<strong>More Information...</strong>&nbsp;:zap:
+</summary>
 
 <!-- Technology -->
 
-<div align=center>
+<hr>
 
-<!-- Applications -->
+<!-- Trophies -->
 
-<a href="#"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible"/></a>
-<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker"/></a>
-<a href="#"><img alt="GIMP" src="https://img.shields.io/badge/GIMP-black?style=flat-square&logo=gimp&logoColor=90825B"/></a>
-<a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobephotoshop"/></a>
-<a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity"/></a>
-<a href="#"><img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal-black?style=flat-square&logo=unrealengine"/></a>
+<a href="#"><img height="102px" src="https://github-profile-trophy.vercel.app/?username=daephx&row=1&column=8&theme=discord&no-bg=true&no-frame=true"/></a>
 
-<!-- Frameworks -->
-<!-- <a href="#"><img alt="React" src="https://img.shields.io/badge/React-black?style=flat-square&logo=react"/></a> -->
+<!-- Statistics -->
 
-<!-- Editors -->
+<a href="#"><img height="236px" src="https://raw.githubusercontent.com/daephx/github-stats-transparent/output/generated/overview.svg"/></a>
+<a href="#"><img height="236px" src="https://raw.githubusercontent.com/daephx/github-stats-transparent/output/generated/languages.svg"/></a>
 
-<a href="#"><img alt="Neovim" src="https://img.shields.io/badge/Neovim-black?style=flat-square&logo=neovim&logoColor=77CF65"/></a>
-<a href="#"><img alt="VSCode" src="https://img.shields.io/badge/VS%20Code-black?style=flat-square&logo=visual-studio-code&logoColor=0277C4"/></a>
-<a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-black?style=flat-square&logo=visualstudio&logoColor=814AC1"/></a>
+<!-- Activity -->
 
-<!-- Platforms -->
+<a href="#"><img height="162px" src="https://github-readme-streak-stats.herokuapp.com/?user=daephx&theme=tokyonight&hide_border=true&background=00000000&ring=5CC7E2&dates=5CC7E2"/></a>
+<a href="#"><img height="138x" src="https://activity-graph.herokuapp.com/graph?username=daephx&theme=react-dark&bg_color=00000000&hide_border=true&area=false&custom_title=%20"/></a>
 
-<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux"/></a>
-<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows&logoColor=0073D4"/></a>
-<br>
+<hr>
 
-<hr/>
-
-<!-- Metadata Cards -->
-
-<a href="#"><img height="192px" src="https://github-readme-streak-stats.herokuapp.com/?user=daephx&theme=tokyonight&hide_border=true&background=00000000&ring=5CC7E2&dates=5CC7E2"/></a>
-<a href="#"><img height="192px" src="https://github-profile-trophy.vercel.app/?username=daephx&row=2&column=3&margin-w=15&theme=discord&no-bg=true&no-frame=true"/></a>
-<a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=daephx&theme=react-dark&bg_color=00000000&hide_border=true&area=true&custom_title=%20"/></a>
-<br>
-
-</div>
 </details>
