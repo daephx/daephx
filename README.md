@@ -25,7 +25,7 @@ add details and links the explain what kind of work you do!
 
 ### :space_invader: About Me
 
-Yo! My name's **Daemon**, I build software.
+Yo! &nbsp;:wave: My name's **Daemon**, I like software.
 
 - :alembic: Inspired by science and technological development.
 - :heartbeat: Passionate for problem-solving and automation.
