@@ -47,7 +47,7 @@ Yo! &nbsp;:wave: My name's **Daemon**, I like software.
 
 <!-- Trophies -->
 
-<a href="#"><img height="102px" src="https://github-profile-trophy.vercel.app/?username=daephx&row=1&column=8&theme=discord&no-bg=true&no-frame=true"/></a>
+<a href="#"><img height="102px" src="https://github-profile-trophy.vercel.app/?username=daephx&row=1&column=8&&margin-w=6&theme=discord&no-bg=true&no-frame=true"/></a>
 
 <!-- Statistics -->
 
