@@ -5,13 +5,11 @@ A Flashy introduction for your github profile,
 add details and links the explain what kind of work you do!
 -->
 
-<!-- Banner Image -->
-
-<a href="#"><img width=100% src="assets/start.gif"/></a>
-
-<!-- General Links -->
+<!-- Banner -->
 
 <div align="center">
+<a href="#"><img src="assets/start.gif"/></a>
+
 <a href="https://gist.github.com/daephx" target="_blank" rel="noopener noreferrer">Gists</a>
 • <a href="https://daephx.github.io" target="_blank" rel="noopener noreferrer">Pages</a>
 • <a href="https://github.com/daephx/stars" target="_blank" rel="noopener noreferrer">Stars</a>
