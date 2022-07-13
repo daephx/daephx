@@ -20,7 +20,7 @@ add details and links the explain what kind of work you do!
 
 <!-- Introduction -->
 
-<img align=right width="32%" src="assets/delete.gif"/>
+<img align=right height="180px" width="320px" src="assets/delete.gif"/>
 
 ### :space_invader: About Me
 
