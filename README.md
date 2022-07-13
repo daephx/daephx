@@ -35,7 +35,7 @@ Yo! &nbsp;:wave: My name's **Daemon**, I like software.
 
 <!-- Metadata -->
 
-<details>
+<details align=center>
 
 <summary>
 :zap:&nbsp;<strong>More Information...</strong>
