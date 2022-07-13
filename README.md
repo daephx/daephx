@@ -41,9 +41,9 @@ Yo! &nbsp;:wave: My name's **Daemon**, I like software.
 </summary>
 
 <div align=center>
-<!-- Technology -->
+<br>
 
-<hr>
+<!-- Technology -->
 
 <!-- Trophies -->
 
@@ -60,7 +60,5 @@ Yo! &nbsp;:wave: My name's **Daemon**, I like software.
 <a href="#"><img height="236px" src="https://raw.githubusercontent.com/daephx/github-stats-transparent/output/generated/languages.svg"/></a>
 
 </div>
-
-<hr>
 
 </details>
