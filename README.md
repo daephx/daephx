@@ -35,12 +35,13 @@ Yo! &nbsp;:wave: My name's **Daemon**, I like software.
 
 <!-- Metadata -->
 
-<details align=center>
+<details>
 
 <summary>
 :zap:&nbsp;<strong>More Information...</strong>
 </summary>
 
+<div align=center>
 <!-- Technology -->
 
 <hr>
@@ -58,6 +59,8 @@ Yo! &nbsp;:wave: My name's **Daemon**, I like software.
 
 <a href="#"><img height="236px" src="https://raw.githubusercontent.com/daephx/github-stats-transparent/output/generated/overview.svg"/></a>
 <a href="#"><img height="236px" src="https://raw.githubusercontent.com/daephx/github-stats-transparent/output/generated/languages.svg"/></a>
+
+</div>
 
 <hr>
 
