@@ -49,11 +49,6 @@ Yo! &nbsp;:wave: My name's **Daemon**, I like software.
 
 <a href="#"><img height="102px" src="https://github-profile-trophy.vercel.app/?username=daephx&row=1&column=8&&margin-w=6&theme=algolia&no-bg=true&no-frame=true"/></a>
 
-<!-- Activity -->
-
-<a href="#"><img height="162px" src="https://github-readme-streak-stats.herokuapp.com/?user=daephx&theme=tokyonight&hide_border=true&background=00000000&ring=5CC7E2&dates=5CC7E2"/></a>
-<a href="#"><img height="138x" src="https://activity-graph.herokuapp.com/graph?username=daephx&theme=react-dark&bg_color=00000000&hide_border=true&area=false&custom_title=%20"/></a>
-
 <!-- Statistics -->
 
 <a href="#"><img height="236px" src="https://raw.githubusercontent.com/daephx/github-stats-transparent/output/generated/overview.svg"/></a>
