@@ -1,9 +1,4 @@
-<!--
-+ Github Profile Readme *
-
-A Flashy introduction for your github profile,
-add details and links the explain what kind of work you do!
--->
+<!-- Github Profile Readme -->
 
 <!-- Banner -->
 
@@ -32,7 +27,7 @@ Yo! &nbsp;:wave: My name's **Daemon**, I like software.
 
 <hr>
 
-<!-- Metadata -->
+<!-- Statistics -->
 
 <details>
 
@@ -42,12 +37,8 @@ Yo! &nbsp;:wave: My name's **Daemon**, I like software.
 
 <div align=center>
 <br>
-
-<!-- Statistics -->
-
 <a href="#"><img height="245px" src="https://raw.githubusercontent.com/daephx/github-stats-transparent/output/generated/overview.svg"/></a>
 <a href="#"><img height="245px" src="https://raw.githubusercontent.com/daephx/github-stats-transparent/output/generated/languages.svg"/></a>
-
 </div>
 
 </details>
