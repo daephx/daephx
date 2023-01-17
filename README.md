@@ -43,12 +43,6 @@ Yo! &nbsp;:wave: My name's **Daemon**, I like software.
 <div align=center>
 <br>
 
-<!-- Technology -->
-
-<!-- Trophies -->
-
-<a href="#"><img height="102px" src="https://github-profile-trophy.vercel.app/?username=daephx&row=1&column=8&&margin-w=6&theme=algolia&no-bg=true&no-frame=true"/></a>
-
 <!-- Statistics -->
 
 <a href="#"><img height="245px" src="https://raw.githubusercontent.com/daephx/github-stats-transparent/output/generated/overview.svg"/></a>
