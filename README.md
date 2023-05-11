@@ -37,8 +37,8 @@ Yo! &nbsp;:wave: My name's **Daemon**, I like software.
 
 <div align=center>
 <br>
-<a href="#"><img height="245px" src="https://raw.githubusercontent.com/daephx/github-stats-transparent/output/generated/overview.svg"/></a>
-<a href="#"><img height="245px" src="https://raw.githubusercontent.com/daephx/github-stats-transparent/output/generated/languages.svg"/></a>
+<a href="#"><img height="245px" src="https://raw.githubusercontent.com/daephx/github-stats/output/generated/overview.svg"/></a>
+<a href="#"><img height="245px" src="https://raw.githubusercontent.com/daephx/github-stats/output/generated/languages.svg"/></a>
 </div>
 
 </details>
