@@ -30,6 +30,6 @@ Yo!&nbsp; :wave: My name's **Daemon**, I like software.
 <!-- Statistics -->
 
 <div align=center>
-<a href="#"><img height="244px" src="https://raw.githubusercontent.com/daephx/github-stats/output/generated/overview.svg"/></a>
-<a href="#"><img height="244px" src="https://raw.githubusercontent.com/daephx/github-stats/output/generated/languages.svg"/></a>
+<a href="#"><img height="243px" src="https://raw.githubusercontent.com/daephx/github-stats/output/generated/overview.svg"/></a>
+<a href="#"><img height="243px" src="https://raw.githubusercontent.com/daephx/github-stats/output/generated/languages.svg"/></a>
 </div>
