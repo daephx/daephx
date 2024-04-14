@@ -19,7 +19,7 @@
 
 ### :space_invader: About Me
 
-Yo! &nbsp;:wave: My name's **Daemon**, I like software.
+Yo!&nbsp; :wave: My name's **Daemon**, I like software.
 
 - :alembic: Inspired by science and technological development.
 - :heartbeat: Passionate for problem-solving and automation.
