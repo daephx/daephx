@@ -15,7 +15,7 @@
 
 <!-- Introduction -->
 
-<img align=right height="160px" width="320px" src="assets/delete.gif"/>
+<a href="#"><img align=right height="160px" width="320px" src="assets/delete.gif"/></a>
 
 ### :space_invader: About Me
 
