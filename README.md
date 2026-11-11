@@ -30,6 +30,10 @@ Yo!&nbsp; :wave: My name's **Daemon**, I like software.
 <!-- Statistics -->
 
 <div align=center>
-<a href="#"><img style="height: auto; width: 48%;" src="https://raw.githubusercontent.com/daephx/github-stats/output/generated/overview.svg"/></a>
-<a href="#"><img style="height: auto; width: 48%;" src="https://raw.githubusercontent.com/daephx/github-stats/output/generated/languages.svg"/></a>
+
+<a href="https://github.com/daephx#gh-dark-mode-only"><img style="height: auto; width: 48%;" src="https://github.com/daephx/github-stats/blob/generated/overview.svg#gh-dark-mode-only"/></a>
+<a href="https://github.com/daephx#gh-light-mode-only"><img style="height: auto; width: 48%;" src="https://github.com/daephx/github-stats/blob/generated/overview.svg#gh-light-mode-only"/></a>
+<a href="https://github.com/daephx#gh-dark-mode-only"><img style="height: auto; width: 48%;" src="https://github.com/daephx/github-stats/blob/generated/languages.svg#gh-dark-mode-only"/></a>
+<a href="https://github.com/daephx#gh-light-mode-only"><img style="height: auto; width: 48%;" src="https://github.com/daephx/github-stats/blob/generated/languages.svg#gh-light-mode-only"/></a>
+
 </div>
